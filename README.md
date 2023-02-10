@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 📫 [LinkedIn](https://www.linkedin.com/in/amitaekbote/)
+- 📫 [Email](mailto:amita.ekbote@gmail.com)
+- 😄 Pronouns: She/Her/Hers
 
 <!--
 **amitaekbote/amitaekbote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
